@@ -1,0 +1,40 @@
+#app {
+  padding-top: 50px;
+}
+
+button {
+  padding: $padding / 2 $padding * 2;
+  border: 1px solid #000;
+  border-radius: $radius;
+  font-size: 14px;
+  line-height: 18px;
+  margin-top: $margin;
+  transition: .4s;
+
+  &:hover {
+    box-shadow: 0 10px 10px 0 #e0e0e0;
+    transform: translateY(-2px);
+  }
+}
+
+.title {
+  font-size: 24px;
+  line-height: 28px;
+}
+
+
+.text {
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: $margin;
+}
+
+
+.catalog__link {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: $padding*2;
+  border: 1px solid #e3e3e3;
+  color: #000;
+}

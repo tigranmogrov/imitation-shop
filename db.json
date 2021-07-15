@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "image": "https://hotline.ua/img/tx/237/237833197_s265.jpg",
+      "name": "T-shirt 1",
+      "price": 2100.234234234,
+      "article": "T1",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "https://i.citrus.ua/imgcache/size_500/uploads/shop/d/d/dd4235aeeb074a6c2ef556b19eba2d47.jpg",
+      "name": "T-shirt 2",
+      "price": 3150.12312412,
+      "article": "T2",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/sxkAAOSwc95c9Rls/s-l1600.jpg",
+      "name": "T-shirt 3",
+      "price": 4200.51524,
+      "article": "T3",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81%2Bd6eSA0eL._UY445_.jpg",
+      "name": "T-shirt 4",
+      "price": 5300.1245512,
+      "article": "T4",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618cvkLjXOL._AC_UL1001_.jpg",
+      "name": "T-shirt 5",
+      "price": 6500.3522314,
+      "article": "T5",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "https://cdnimg.rg.ru/i/photogallery/2020/09/15/3485e513d0e7a8e/3485e513d0e7a8e1600201495.jpg",
+      "name": "T-shirt 6",
+      "price": 8700.4124123,
+      "article": "T6",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-3-pro/img/one/huawei-watch-3-pro-kv.png",
+      "name": "T-shirt 7",
+      "price": 210.4234234,
+      "article": "T7",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "https://i.gadgets360cdn.com/products/large/galaxy-watch-active2-470x800-1570718402.jpg",
+      "name": "T-shirt 8",
+      "price": 350.312412,
+      "article": "T8",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/55BFB632-99EF-F75C-68D6-46444E0786EF.jpg",
+      "name": "T-shirt 9",
+      "price": 420.1524,
+      "article": "T9",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "https://staticimg.titan.co.in/Titan/Catalog/1785NL01_2.jpg",
+      "name": "T-shirt 10",
+      "price": 530.245512,
+      "article": "T10",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "https://staticimg.titan.co.in/production/India/Titan/detail/90099SL02.jpg",
+      "name": "T-shirt 11",
+      "price": 600.522314,
+      "article": "T11",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61mcCD3v1KL._UL1000_.jpg",
+      "name": "T-shirt 12",
+      "price": 870.124123,
+      "article": "T12",
+      "available": true,
+      "category": "Женские"
+    }
+  ]
+}
