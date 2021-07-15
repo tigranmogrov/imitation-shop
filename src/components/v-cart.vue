@@ -59,8 +59,6 @@ export default {
       } else {
         return 0
       }
-
-
     }
   },
   methods: {
